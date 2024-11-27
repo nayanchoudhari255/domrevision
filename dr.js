@@ -1,16 +1,3 @@
-// //dom revision
-
-// let a=document.getElementById("parent");
-// let b=document.getElementById("p1");
-// let c=document.getElementById("p2");
-// b.textContent="p1";
-// c.textContent="p2";
-// // console.log(b.parentNode);
-// console.log(c.firstChild);
-// let d=document.createElement("p");
-// d.innerHTML=`<h1>Hello</h1>`
-// a.insertBefore(d,b)
-
 let data = [
     {
         "id": 1,
